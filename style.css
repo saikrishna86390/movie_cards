@@ -1,0 +1,13 @@
+#movie {
+  position: relative;
+  left: 200px;
+  top: 100px;
+  gap: 30px;
+}
+.icon {
+  color: brown;
+  font-size: 50px;
+  position: relative;
+  top: 50px;
+  left: 60%;
+}
